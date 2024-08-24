@@ -1,4 +1,5 @@
 Python Expense Tracker
+
 Overview
 Welcome to the Python-based Expense Tracker! This tool is designed to help users manage their finances effectively by providing a 
 simple and organized way to track expenses. With features like adding, viewing, filtering, and deleting expenses, as well as generating 
@@ -11,8 +12,7 @@ Filter Expenses: Filter expenses based on categories, date ranges, or specific k
 Delete Expenses: Remove unnecessary or incorrect expense entries.
 Monthly Summary: Get a summarized view of all expenses for a specific month, helping you to monitor and control your spending.
 
-Usage
+Usage:
 1.Run the expense tracker script.
-
 2.Follow the on-screen instructions to add, view, filter, or delete expenses.
 3.At the end of each month, use the monthly summary feature to review your expenses.
