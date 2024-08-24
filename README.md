@@ -13,5 +13,6 @@ Monthly Summary: Get a summarized view of all expenses for a specific month, hel
 
 Usage
 1.Run the expense tracker script.
+
 2.Follow the on-screen instructions to add, view, filter, or delete expenses.
 3.At the end of each month, use the monthly summary feature to review your expenses.
